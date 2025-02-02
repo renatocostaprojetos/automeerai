@@ -4,7 +4,7 @@
 import streamlit as st
 
 # Importamos a função annotated_text para destaque de texto na aplicação.
-from annotated_text import annotated_text, annotation
+from annotated_text import annotated_text
 
 # Importamos bibliotecas específicas para integração com serviços de IA e manipulação de mídia.
 import assemblyai as aai
